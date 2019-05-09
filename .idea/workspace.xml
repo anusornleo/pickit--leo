@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f1415-7df0-44a8-81f7-4ec24c019867" name="Default Changelist" comment="add ui">
-      <change beforePath="$PROJECT_DIR$/pick_it/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pick_it/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/1443363994-SuzukiGsxr-o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_unfYioB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/2019-audi-r8-onlocation_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/2019-audi-r8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/2019-audi-r8_UFOLGeB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/78001949c69f43595c75623482b95284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/78001949c69f43595c75623482b95284_3Cf0Nmh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0324_-_Copy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0324_-_Copy_YZRUFtT.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0500.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0501.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0501_Y6OPNYG.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0526.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0526_3vHCmSx.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0538.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0538_mQEGN8q.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0544.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0545.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0545_CVUfxPc.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0550.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0553.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0553_Qs80nSK.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0553_bhAkgY4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0555.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0566.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0602.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0658.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/DSC_0690.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/Suzuki-GSX-R1000-2018-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/Suzuki-GSX-R1000-2018-2_28Jlitc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/cbr1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/cbr2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/cbr2_DIvPcuj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/cbr2_IxfBp4j.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_4E0JMpjRf_20TQF0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_Fywaeuij9_UbYMqTb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_T6wcD9Iqx_ruqXETD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_VIIVHZ42T_7wAnCY9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_eBd2v0X0t_H98HZfv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_new-car-one2car-ford-ranger-wildtrak-pickup-thailand_8816475_tlyb2PP6M_BqK0SIY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_7JMiXuTqbpodGTPN8jq3cx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_BKcEg3gQQGXStxUBMIH0SW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_GyyFCrtBymEi6V2eb0HQ4K.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_U1P2OSTVM7a3FWcWWbKTIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_YN5nmXINH0zkhLE18KSBAw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/gallery_used-car-one2car-nissan-gt-r-r35-coupe-thailand_0123555_y1grMS3vGELNFWaqv4VIN3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/models.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/r3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/r3_2018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/r3_2018_onvynwx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/r3_oa699oo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s2_Guhwa9t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s2_v2VDQlo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s3_1L70zzI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s3_BWrfwcA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s3_I7Q7Ehc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/s3_lhS1GRX.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/cars_pics/z4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_3xGVQ8b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_EpWvv5C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_HKISvIn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_kAs2BxN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_md2LGWL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_oYMj0tJ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_wYTFm41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/58444936_1980319528757114_1577373013433647104_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0318_-_Copy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0504.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0504_5PIYP8q.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0510.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0534.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0534_KqKi40X.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0538.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0541.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0546.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0553.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0571.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0571_zHmcimU.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0574.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0574_0Lxeszr.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0586.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0592.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0606.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0625.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0649.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/DSC_0689.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/Screenshot_1554653149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/models.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/license_pic/zd.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,30 +113,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              <folding>
-                <element signature="e#48#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pick_it/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#223#232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/templates/posts/home.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -201,10 +272,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,6 +290,29 @@
             <path>
               <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
               <item name="pick-it" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick-it" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick-it" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="cars_pics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick-it" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="license_pic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick-it" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="profile_pics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pick-it" type="b2602c69:ProjectViewProjectNode" />
@@ -337,7 +432,7 @@
       <workItem from="1557375904811" duration="1091000" />
       <workItem from="1557382817693" duration="1367000" />
       <workItem from="1557410312855" duration="3388000" />
-      <workItem from="1557420900221" duration="571000" />
+      <workItem from="1557420900221" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="add ui">
       <created>1557378490845</created>
@@ -350,15 +445,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299499000" />
+    <option name="totallyTimeSpent" value="301602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" sideWeight="0.5016611" side_tool="true" weight="0.21218716" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49833888" visible="true" weight="0.16436464" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49833888" visible="true" weight="0.19839142" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2600297" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
@@ -370,7 +464,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32892805" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.32599118" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.23887241" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.23641704" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,27 +481,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add ui" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/contrib/auth/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1976">
-          <caret line="356" column="6" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/logout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/migrations/0008_review_user.py" />
     <entry file="file://$PROJECT_DIR$/posts/migrations/0007_report.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -747,6 +820,15 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/cars_pics/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart_unfYioB.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/cars_pics/17TDI_GTRHelios010.jpg.ximg.l_full_m.smart.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/profile_pics/DSC_0520.JPG">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
